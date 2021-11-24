@@ -1,0 +1,6 @@
+name: CustomJoinMessages
+main: me.timof121.devplugin1.Class1
+version: 1.0
+api-version: 1.8.8
+author: timof121
+description: A simple plugin for custom join and leave messages on Spigot.

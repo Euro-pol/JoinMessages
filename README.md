@@ -13,7 +13,7 @@ I don't know if it supports new versions, since I only focused on 1.8.8.
 Stay tuned for updates!
 
 ## Building
-To build this plugin,[install maven on your system](https://maven.apache.org/download.cgi), go to the cloned folder and simply run 
+To build this plugin, [install maven on your system](https://maven.apache.org/download.cgi), go to the cloned folder and simply run 
 `mvn install`
 Now the built plugin should be in the target folder! 😃
 

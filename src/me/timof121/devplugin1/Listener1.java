@@ -13,6 +13,6 @@ public class Listener1 implements Listener {
 	
 	@EventHandler
     public void onPlayerQuir(PlayerQuitEvent event) {
-        event.setQuitMessage("\2474 (-) " + event.getPlayer().getName());
+        event.setQuitMessage("\247c (-) " + event.getPlayer().getName());
     }
 }
